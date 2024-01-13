@@ -53,7 +53,12 @@ Integration of Model into Website:
 
 
 ### Screenshots :
-![WebApplication view] (./static/website.png)
+![webapp](https://github.com/cseravi9/Cancer-Prediction/assets/151388243/4c67112e-a91e-4f74-80b2-f70064d73a5f)
+![website](https://github.com/cseravi9/Cancer-Prediction/assets/151388243/bb6d247c-bfdb-41f9-bf14-63279d591e56)
+![result](https://github.com/cseravi9/Cancer-Prediction/assets/151388243/471baf68-8fe8-4602-98f1-2f049d64904b)
+<img width="960" alt="db" src="https://github.com/cseravi9/Cancer-Prediction/assets/151388243/1aaa0e11-55de-4a55-8ad2-3325dbbf9825">
+<img width="958" alt="ai" src="https://github.com/cseravi9/Cancer-Prediction/assets/151388243/a7a577af-8ab7-4cf2-a640-77f9a7116a10">
+![ml](https://github.com/cseravi9/Cancer-Prediction/assets/151388243/a40ecfe7-2dd9-49b2-9b3a-3e0b4d76c6a9)
 
 
 

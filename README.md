@@ -10,7 +10,7 @@ Ayushi Kumari FRT Email: kumariayushi7250@gmail.com Github: @ayushi081
 
 Project Link :http://breastcancerpredictionfrt.azurewebsites.net
 
-Demo Video :
+Demo Video :https://youtu.be/y6bvEN8RO4w?si=fdNQr67eD97FYysV
 
 Technology: Flask
 Language: Python 3.12

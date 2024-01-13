@@ -53,7 +53,7 @@ Integration of Model into Website:
 
 
 ### Screenshots :
-![WebApplication view] (static/website.png)
+![WebApplication view] (./static/website.png)
 
 
 

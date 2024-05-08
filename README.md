@@ -5,8 +5,8 @@ This is the our final project created for Microsoft Future Ready Talent Virtual 
 # [AI-powered Predictive breast cancer Detection Website](http://breastcancerpredictionfrt.azurewebsites.net)
 
 ## DEVELOPED BY
-Ravi Kumar FRT Email: kumaravi3573@gmail.com Github: @cseravi9
-Ayushi Kumari FRT Email: kumariayushi7250@gmail.com Github: @ayushi081
+##Ravi Kumar FRT Email: kumaravi3573@gmail.com Github: @cseravi9
+##Ayushi Kumari FRT Email: kumariayushi7250@gmail.com Github: @ayushi081
 
 Project Link :http://breastcancerpredictionfrt.azurewebsites.net
 
